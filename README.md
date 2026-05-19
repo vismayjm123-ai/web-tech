@@ -16,7 +16,7 @@ This project is a Cybersecurity Awareness Website designed to educate users abou
 ## Technologies Used
 
 * HTML5
-* CSS3
+* CSS
 * JavaScript
 
 ## Purpose of the Project
